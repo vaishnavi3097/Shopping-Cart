@@ -1,0 +1,131 @@
+ body {
+  font-size: 12px;
+  height: 100vh;
+  max-width:100vw;
+}
+#root{
+  height: 100vh;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+html,body{
+  font-size: 12px;
+  max-width: 100%;
+}
+h3{
+  font-size: 1.75rem;
+    text-align: center;
+}
+.btn {
+  cursor: pointer;
+}
+
+.btn-toolbar .btn:nth-child(n+2) {
+  margin-left: 8px;
+}
+.total{
+  display: block;
+  float: right;
+  width: 83px;
+  margin-right: 25px;
+  color: #fff;
+  background-color: ivory;
+  font-size: 14px;
+  font-family: monospace;
+}
+.form{
+  display: inline-block;
+  float: right;
+ padding-right: 30px;
+}
+
+.about{
+  width: 85px;
+  margin-right: 25px;
+  color: #fff;
+  background-color:deepskyblue;
+  font-size: 14px;
+  font-family: monospace;
+  border: 1px solid transparent;
+  
+}
+.home{
+  margin: 8px;
+  background-color: beige;
+}
+.submit{
+  background-color: aliceblue;
+    margin: 7px;
+    padding: 2px;
+}
+h1 {
+  font-size: 4.5rem;
+  text-align: center;
+  color: black;
+  font-family: serif;
+  font-style  : normal;
+  background-color: dimgrey;
+}
+.rows {
+  display: inline;
+  font-weight: 600;
+  color: cadetblue;
+  
+}
+.btnn{
+  float: right;
+    font-size: initial;
+    color: burlywood;
+}
+
+
+.new {
+  display: inline-block;
+    margin-left: 47px;
+    margin-right: 43px;
+  padding-left: 45px;
+    padding-right: 35px;
+}
+P{
+  margin-left: 18px;
+}
+.logo{
+  text-align: center;
+  font-size: 35px;
+  color: black;
+  font-family: serif;
+  margin: 0;
+}
+.add{
+  font-family: none;
+    font-size: 12px;
+    color: black;
+}
+.info {
+  cursor: pointer;
+  height: 28px;
+  margin: 5px;
+  color: #fff;
+  background-color: #007bff;
+  border: 1px solid transparent;
+}
+.custom-select{
+  margin-left: 15px;
+    width: 10%;
+}
+.select{
+  width: 50%;
+    height: 30px;
+    margin-left: 15px;
+    border-bottom: groove;
+    background-color: aliceblue;
+    border: 1px solid transparent;
+
+}
+
+.col-form-label {
+  margin-left: 41px;
+}
